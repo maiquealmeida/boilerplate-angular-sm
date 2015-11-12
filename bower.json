@@ -1,0 +1,36 @@
+{
+  "name": "boilerplate-angular-sm",
+  "description": "Boilerplate para projetos com AngurlarJS e SemanticUI, incluindo dependencias de projeto e desenvolvimento.",
+  "main": "index.js",
+  "authors": [
+    "Maique Almeida <maique.almeida@desenvolvati.com.br>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "boilerpalte",
+    "angularjs",
+    "semanti-ui"
+  ],
+  "homepage": "https://github.com/maiquemalmeida/boilerplate-angular-sm",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "PACE": "pace#~1.0.2",
+    "semantic": "semantic-ui#~2.1.6",
+    "angular": "~1.4.7",
+    "jquery": "~2.1.4"
+  }
+}

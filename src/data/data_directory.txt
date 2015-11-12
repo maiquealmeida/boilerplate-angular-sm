@@ -1,0 +1,2 @@
+Diretorio data
+Utilizado para armazenar inforamções do sistema (upload de arquivos, banco de dados, etc).
